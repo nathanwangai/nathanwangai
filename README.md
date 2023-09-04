@@ -1,5 +1,5 @@
-### Welcome
-- 🔭 I'm a student researcher at JHU, NIH, and MGH solving biomedical challenges with artificial intelligence
+### Welcome!
+- 🔭 I'm a student researcher solving biomedical challenges with artificial intelligence
 - 🌱 I'm a senior at Johns Hopkins University studying biomedical engineering and applied mathematics
 - 📫 You can reach me via email at swang279@jh.edu
 
