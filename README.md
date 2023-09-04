@@ -1,5 +1,5 @@
 ### Welcome!
-- 🔭 I'm a student researcher solving biomedical challenges with artificial intelligence
+- 🔭 I'm an undergraduate conducting biomedical research with artificial intelligence
 - 🌱 I'm a senior at Johns Hopkins University studying biomedical engineering and applied mathematics
 - 📫 You can reach me via email at swang279@jh.edu
 
