@@ -1,4 +1,7 @@
-### Hi there 👋
+### Welcome
+🔭 I’m currently researching applications of artificial intelligence in medicine
+🌱 I’m currently studying biomedical engineering and applied mathematics at Johns Hopkins University
+📫 Reach me via email: swang279@jh.edu
 
 <!--
 **nathanwangai/nathanwangai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
