@@ -1,7 +1,7 @@
-### Welcome!
-- 🔭 I'm an undergraduate conducting biomedical research with artificial intelligence
-- 🌱 I'm a senior at Johns Hopkins University studying biomedical engineering and applied mathematics
-- 📫 You can reach me via email at swang279@jh.edu
+### Hello!
+- 🥼 I'm an incoming MD-PhD student conducting research with AI
+- 🎓 I graduated from Johns Hopkins University with degrees in biomedical engineering and applied mathematics/statistics
+- 📧 You can reach me via email at nathanwang.contact@gmail.com
 
 <!--
 **nathanwangai/nathanwangai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
