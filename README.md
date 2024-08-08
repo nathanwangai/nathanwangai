@@ -1,5 +1,5 @@
 ### Hello!
-- 🥼 I'm an incoming MD-PhD student conducting research with AI
+- 🥼 I'm an MD-PhD student at UPenn conducting biomedical AI research
 - 🎓 I graduated from Johns Hopkins University with degrees in biomedical engineering and applied mathematics/statistics
 - 📧 You can reach me via email at nathanwang.contact@gmail.com
 
